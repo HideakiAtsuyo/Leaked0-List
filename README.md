@@ -2,6 +2,9 @@
 
 If you want something specific leaked open an issue or DM me on Discord(can be refused if it's not considered as scam).
 
+## List 2021
+[Click Here](https://github.com/HideakiAtsuyo/Leaked0-List-2021)
+
 ## List
 
 - [A Discord Account Creator sold for $21k](https://github.com/Leaked0/21k-dollars-discord-account-creator)
