@@ -11,3 +11,4 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - BlitzedGrabber (not even out and already leaked oops) [1.0](https://github.com/Leaked0/BlitzedGrabber/tree/1.0) & [2.0](https://github.com/Leaked0/BlitzedGrabber/tree/2.0)
 - [Discord Toolkit Public](https://github.com/Leaked0/Discord-Toolkit-Public) If you don't know what it is click :)
 - [Naasm Community Tools "By Naasm"](https://github.com/Leaked0/Naams-Community) :thinking:
+- BlitzedGrabber Little Brother ? [(SnowGrabber)](https://github.com/Leaked0/SnowGrabber)
