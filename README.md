@@ -12,3 +12,4 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [Discord Toolkit Public](https://github.com/Leaked0/Discord-Toolkit-Public) If you don't know what it is click :)
 - [Naasm Community Tools "By Naasm"](https://github.com/Leaked0/Naams-Community) :thinking:
 - BlitzedGrabber Little Brother ? [(SnowGrabber)](https://github.com/Leaked0/SnowGrabber)
+- [KryptedDotNet](https://github.com/Leaked0/KryptedDotNet) (was supposed to be posted [here](https://github.com/StvnedEagle1337/KryptedDotNet))
