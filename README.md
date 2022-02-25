@@ -13,3 +13,5 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [Naasm Community Tools "By Naasm"](https://github.com/Leaked0/Naams-Community) :thinking:
 - BlitzedGrabber Little Brother ? [(SnowGrabber)](https://github.com/Leaked0/SnowGrabber)
 - [KryptedDotNet](https://github.com/Leaked0/KryptedDotNet) (was supposed to be posted [here](https://github.com/StvnedEagle1337/KryptedDotNet))
+- [FVMachine](https://github.com/Leaked0/FVMachine) (Dynamic Methods NOT VM)
+- [SugarGuard](https://github.com/Leaked0/SugarGuard) Including [FVMachine](https://github.com/Leaked0/FVMachine) that is probably the "first version" of [SugarGuard](https://github.com/Leaked0/SugarGuard)🤔
