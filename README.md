@@ -15,3 +15,10 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [KryptedDotNet](https://github.com/Leaked0/KryptedDotNet) (was supposed to be posted [here](https://github.com/StvnedEagle1337/KryptedDotNet))
 - [FVMachine](https://github.com/Leaked0/FVMachine) (Dynamic Methods NOT VM)
 - [SugarGuard](https://github.com/Leaked0/SugarGuard) Including [FVMachine](https://github.com/Leaked0/FVMachine) that is probably the "first version" of [SugarGuard](https://github.com/Leaked0/SugarGuard)🤔 (First Versions & V1 & V2)
+- [Discord Phishing Leak](https://github.com/Leaked0/Discord-Phishing-Leak) JUST IN CASE SOMEONE SOLD THIS TO YOU, YOU GOT SCAMMED
+
+
+---------------------------------
+
+
+If you want a custom tool(or a custom version of any of those tools, made from 0 not using the src above) you can contact me on Discord.
