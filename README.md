@@ -17,6 +17,7 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [SugarGuard](https://github.com/Leaked0/SugarGuard) Including [FVMachine](https://github.com/Leaked0/FVMachine) that is probably the "first version" of [SugarGuard](https://github.com/Leaked0/SugarGuard)🤔 (First Versions & V1 & V2)
 - [Discord Phishing Leak](https://github.com/Leaked0/Discord-Phishing-Leak) JUST IN CASE SOMEONE SOLD THIS TO YOU, YOU GOT SCAMMED
 - [Venom HVNC 5.0.4.0](https://github.com/Leaked0/VenomRAT_HVNC-5.0.4.0)
+- [Zefoy.com bot](https://github.com/Leaked0/zefoy.com-bot/tree/main)
 
 
 ---------------------------------
