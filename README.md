@@ -18,7 +18,7 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [Discord Phishing Leak](https://github.com/Leaked0/Discord-Phishing-Leak) JUST IN CASE SOMEONE SOLD THIS TO YOU, YOU GOT SCAMMED
 - [Venom HVNC 5.0.4.0](https://github.com/Leaked0/VenomRAT_HVNC-5.0.4.0)
 - [Zefoy.com bot](https://github.com/Leaked0/zefoy.com-bot/tree/main)
-- [DAC (Discord Account Creator](https://github.com/Leaked0/DAC) A Simple Discord Account Creator
+- [DAC (Discord Account Creator)](https://github.com/Leaked0/DAC) A Simple Discord Account Creator
 
 ---------------------------------
 
