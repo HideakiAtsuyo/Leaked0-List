@@ -23,5 +23,9 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [Hyperion](https://github.com/Leaked0/Hyperion) A Python Obfuscator
 ---------------------------------
 
+## List (No SRC, can go out of GitHub(i.e: cracked.io))
+- [XENONFUSCATOR](https://cracked.io/Thread-Cracked-XENONFUSCATOR)
+- [VMP 3.6.0 (Build 1406)](https://cracked.io/Thread-Cracked-VMPROTECT-ULTIMATE-V3-6-0-BUILD-1406-LICENSED)
+
 
 If you want a custom tool(or a custom version of any of those tools, made from 0 not using the src above) you can contact me on Discord.
