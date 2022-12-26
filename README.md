@@ -22,6 +22,7 @@ If you want something specific leaked open an issue or DM me on Discord(can be r
 - [FutureSpoofer](https://github.com/Leaked0/FutureSpoofer) A Spoofer ?
 - [Hyperion](https://github.com/Leaked0/Hyperion) A Python Obfuscator
 - [tikbotting.com](https://github.com/Leaked0/tikbotting.com) => can be used to automate requests on [tikbotting.com](https://tikbotting.com) website and get unlimited views if he don't rate limit ;)
+- [vast.gay](https://github.com/Leaked0/vast.gay) => vast.gay website source code (display actual Spotify song that's the only interesting thing on it)
 ---------------------------------
 
 ## List (No SRC, just cracked or licensed, can go out of GitHub(i.e: cracked.io))
